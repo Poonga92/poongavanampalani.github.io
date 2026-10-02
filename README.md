@@ -1,2 +1,12 @@
 # poongavanampalani.github.io
-My professional portfolio
+# PhD CV
+
+### Education
+IIT MADRAS
+
+### Work Experience
+DRDO
+Aceenture
+-Testing
+
+### Projects
