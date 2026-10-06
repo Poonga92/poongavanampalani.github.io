@@ -1,4 +1,3 @@
-# poongavanampalani.github.io
 # PhD CV
 Ph.D. in Engineering Design (IIT Madras, 2025) working at the intersection of wearable sensing, biosignal processing, and machine learning for medical robotics and human motion analysis. Developed methods for characterizing physiological tremor and muscle fatigue (multivariate empirical mode decomposition and Hilbert analysis; BiLSTM-GRU classification), markerless joint-angle estimation fusing MediaPipe with inertial sensors, and force-sensing devices for shoulder therapy (Indian patent granted, 2025). Author of three journal articles, ten peer-reviewed conference papers, and two book chapters.
 ### Education
